@@ -1,0 +1,216 @@
+```javascript
+{
+  name: 'Advisors',
+  deployedAddress: '0x4d91BaCD3F2CC3BCB18F0027381C7F1c44363C88',
+  openClaimAmount: '50000000000000000000000000',
+  totalClaimAmount: '50000000000000000000000000',
+  totalAmount: '50000000000000000000000000',
+  cliffTime: '1636650000',
+  claimStats: {
+    '0x626Ef3b6a48b550c49869545F52E6c1853d293Bd': { totalClaim: '35000000000000000000000000', claimPercentage: '70' },
+    '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '15000000000000000000000000', claimPercentage: '30' }
+  }
+}
+{
+  name: 'Development',
+  deployedAddress: '0x1dAA4943280C85be711A6bDbACb7b73c66601B6d',
+  openClaimAmount: '50000000000000000000000000',
+  totalClaimAmount: '50000000000000000000000000',
+  totalAmount: '50000000000000000000000000',
+  cliffTime: '1641834000',
+  claimStats: {
+    '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '25000000000000000000000000', claimPercentage: '50' },
+    '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '25000000000000000000000000', claimPercentage: '50' }
+  }
+}
+{
+  name: 'Ecosystem',
+  deployedAddress: '0x45f96c234140350182E33bDc83A649C27feF8369',
+  openClaimAmount: '100000000000000000000000000',
+  totalClaimAmount: '100000000000000000000000000',
+  totalAmount: '100000000000000000000000000',
+  cliffTime: '1634058000',
+  claimStats: {
+    '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '50000000000000000000000000', claimPercentage: '50' },
+    '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '50000000000000000000000000', claimPercentage: '50' }
+  }
+}
+{
+  name: 'LP_grants',
+  deployedAddress: '0x680052c12D864f7FD61673261453dE63732Fb102',
+  openClaimAmount: '50000000000000000000000000',
+  totalClaimAmount: '50000000000000000000000000',
+  totalAmount: '50000000000000000000000000',
+  cliffTime: '1634058000',
+  claimStats: {
+    '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '25000000000000000000000000', claimPercentage: '50' },
+    '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '25000000000000000000000000', claimPercentage: '50' }
+  }
+}
+{
+  name: 'LP_rewards',
+  deployedAddress: '0x13C4168962A3c1DFe02f8eD9591d8EDd28f3E047',
+  openClaimAmount: '200000000000000000000000000',
+  totalClaimAmount: '200000000000000000000000000',
+  totalAmount: '200000000000000000000000000',
+  cliffTime: '1634058000',
+  claimStats: {
+    '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': {
+      totalClaim: '100000000000000000000000000',
+      claimPercentage: '50'
+    },
+    '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': {
+      totalClaim: '100000000000000000000000000',
+      claimPercentage: '50'
+    }
+  }
+}
+{
+  name: 'Marketing',
+  deployedAddress: '0xed223E325006699418b9965458cB2c6D5bd08533',
+  openClaimAmount: '50000000000000000000000000',
+  totalClaimAmount: '50000000000000000000000000',
+  totalAmount: '50000000000000000000000000',
+  cliffTime: '1641834000',
+  claimStats: {
+    '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '25000000000000000000000000', claimPercentage: '50' },
+    '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '25000000000000000000000000', claimPercentage: '50' }
+  }
+}
+{
+  name: 'Private',
+  deployedAddress: '0x4464B3917d9A249ff99D8Aa89E5a35D373Af2305',
+  openClaimAmount: '65000000000000000000000000',
+  totalClaimAmount: '65000000000000000000000000',
+  totalAmount: '65000000000000000000000000',
+  cliffTime: '1631466000',
+  claimStats: {
+    '0x2e8A03B4679E721D6C3532d79B74526411d53a90': { totalClaim: '300000000000000000000000', claimPercentage: '0' },
+    '0x6A4AC058F7E890AbFeE417749Cfa8EedF63C92DE': { totalClaim: '200000000000000000000000', claimPercentage: '0' },
+    '0x1F0426b170547617bd4FC0fdf64B0B124Dc362Eb': { totalClaim: '200000000000000000000000', claimPercentage: '0' },
+    '0x4a5BB1c9347A0d4F7e06a29239162f03647d9232': { totalClaim: '2000000000000000000000000', claimPercentage: '3' },
+    '0xfCA9cafA1302C99BC4b7E8B594BbC2b3eeeA6106': { totalClaim: '1000000000000000000000000', claimPercentage: '1' },
+    '0xA65661b2CA9BF4cd8af4E268a6e9BAB6863D58e0': { totalClaim: '200000000000000000000000', claimPercentage: '0' },
+    '0xc69A36f448d8a4b8282033ef6A209C2fF3d330C7': { totalClaim: '700000000000000000000000', claimPercentage: '1' },
+    '0x6C1AA0a101D8ABe9bEA5F8ABFd2E0C72dBA096c5': { totalClaim: '3900000000000000000000000', claimPercentage: '6' },
+    '0xA015D29157e3a6c572c4D6CEbAc2403D04326B34': { totalClaim: '7500000000000000000000000', claimPercentage: '11' },
+    '0xb7dFEC6aAD16F30367B7E498e8bd2cC0Df21A429': { totalClaim: '2500000000000000000000000', claimPercentage: '3' },
+    '0xc1E8a91196B0E7612d0949E50bF999fE32EeC7B3': { totalClaim: '2000000000000000000000000', claimPercentage: '3' },
+    '0xa235400E0421e6ae5Fd2af5d000221fA3E029E4a': { totalClaim: '2000000000000000000000000', claimPercentage: '3' },
+    '0xCa9061Ae96f2728259E328AEda513270532FC43d': { totalClaim: '1000000000000000000000000', claimPercentage: '1' },
+    '0x637E21Ac11F0E0Cf95D926d6bd2737b059A2858a': { totalClaim: '1000000000000000000000000', claimPercentage: '1' },
+    '0x4553eD5d8d3731E629f67BD86abd021175F31848': { totalClaim: '700000000000000000000000', claimPercentage: '1' },
+    '0x63eE555F1fea9798f09069b4830CbaA7E6E251c2': { totalClaim: '500000000000000000000000', claimPercentage: '0' },
+    '0x9349284Cc71056d28885c18036ea9bCBc2436959': { totalClaim: '200000000000000000000000', claimPercentage: '0' },
+    '0x11EfF19DC599ee676b6D65bae0A60479a87e889A': { totalClaim: '300000000000000000000000', claimPercentage: '0' },
+    '0xa68CD06976cfc9Af01dD659907518A1FB6c1a797': { totalClaim: '150000000000000000000000', claimPercentage: '0' },
+    '0x81DC6F15eE72F6E6d49CB6Ca44C0Bf8E63770027': { totalClaim: '250000000000000000000000', claimPercentage: '0' },
+    '0xbC627254fa9e73117cb70E1D4Eed610Ba0a9DE0D': { totalClaim: '300000000000000000000000', claimPercentage: '0' },
+    '0x50899582199c06d5264edDCD12879E5210783Ba8': { totalClaim: '1000000000000000000000000', claimPercentage: '1' },
+    '0x85B2b25BCb79A4945c1d7ad5e773f4af5b7167c3': { totalClaim: '250000000000000000000000', claimPercentage: '0' },
+    '0xb8a0089D6e9410B5bd48a7F3f4f5021e50023248': { totalClaim: '300000000000000000000000', claimPercentage: '0' },
+    '0xFD5D6417fdcF02f0627aaFa9e594A67D4485642d': { totalClaim: '300000000000000000000000', claimPercentage: '0' },
+    '0x17ec047622C000Df03599026A3B39871EC9384DB': { totalClaim: '2000000000000000000000000', claimPercentage: '3' },
+    '0x8c4209A00682164F1b1fFFe7D11895a4beC45855': { totalClaim: '2000000000000000000000000', claimPercentage: '3' },
+    '0xd1FF06D46dC35FB7760FEcf3De193d7F978bB5e3': { totalClaim: '1500000000000000000000000', claimPercentage: '2' },
+    '0x94C840ff0DB97bCbD4058AbeD14Ba3721831b622': { totalClaim: '2000000000000000000000000', claimPercentage: '3' },
+    '0x6d16749cEfb3892A101631279A8fe7369A281D0E': { totalClaim: '2000000000000000000000000', claimPercentage: '3' },
+    '0x93774B153f8514D26f22Af5059015E645fd12640': { totalClaim: '1000000000000000000000000', claimPercentage: '1' },
+    '0xd4cE1744799B189c7A19A3D3cE0AAC8DE60F781b': { totalClaim: '2000000000000000000000000', claimPercentage: '3' },
+    '0xfAb069c2CDB92B1c61A643e6265843204Bc2Bba6': { totalClaim: '2000000000000000000000000', claimPercentage: '3' },
+    '0x6D9A4667e14783282517D0E3EbECf29da808c6de': { totalClaim: '1000000000000000000000000', claimPercentage: '1' },
+    '0xB6b49986253f9234D2526cd5F8e94Ceb4Ae62D25': { totalClaim: '1000000000000000000000000', claimPercentage: '1' },
+    '0xfDB3519f49149ffBd787927cd09792eeacCdd56C': { totalClaim: '2000000000000000000000000', claimPercentage: '3' },
+    '0xA786Ce97d25Ba99DbBBd3B248fFe47248C548491': { totalClaim: '1000000000000000000000000', claimPercentage: '1' },
+    '0x19b3Eb14D29c5779B1dEa2798AEb5324f9bCf8D3': { totalClaim: '1500000000000000000000000', claimPercentage: '2' },
+    '0x3c8972bA9D1Ba82acf390ab6e7fCC29dD3a7c53E': { totalClaim: '1000000000000000000000000', claimPercentage: '1' },
+    '0xE7521950426479d525381940604D27aeC12FE97a': { totalClaim: '2000000000000000000000000', claimPercentage: '3' },
+    '0xCf304823D4d0d8822648A66aDbF67BC57F6dD350': { totalClaim: '2000000000000000000000000', claimPercentage: '3' },
+    '0xDd071d33bfCf21286ac874C9617A9b350B3072c1': { totalClaim: '250000000000000000000000', claimPercentage: '0' },
+    '0xD266d61ac22C2a2Ac2Dd832e79c14EA152c998D6': { totalClaim: '10000000000000000000000000', claimPercentage: '15' }
+  }
+}
+{
+  name: 'Public_Vested',
+  deployedAddress: '0xB4df471B6509a1078a799a4f49CaB97e719d7Ab5',
+  openClaimAmount: '0',
+  totalClaimAmount: '0',
+  totalAmount: '11111111000000000000000000',
+  cliffTime: '1634058000',
+  claimStats: {}
+}
+{
+  name: 'Seed',
+  deployedAddress: '0xAD558B957010B6C75463E883B109Dc9322Faa06f',
+  openClaimAmount: '12500000000000000000000000',
+  totalClaimAmount: '12500000000000000000000000',
+  totalAmount: '12500000000000000000000000',
+  cliffTime: '1634058000',
+  claimStats: {
+    '0xCf304823D4d0d8822648A66aDbF67BC57F6dD350': { totalClaim: '1250000000000000000000000', claimPercentage: '10' },
+    '0xDd071d33bfCf21286ac874C9617A9b350B3072c1': { totalClaim: '312500000000000000000000', claimPercentage: '2' },
+    '0xD266d61ac22C2a2Ac2Dd832e79c14EA152c998D6': { totalClaim: '1500000000000000000000000', claimPercentage: '12' },
+    '0x21F60ffb54Da2251239cE01a9Ec07f5248451032': { totalClaim: '312500000000000000000000', claimPercentage: '2' },
+    '0x826BCEA879E4496Ed163BCC128926B5627E1f08d': { totalClaim: '1250000000000000000000000', claimPercentage: '10' },
+    '0xd993714E73402C7033c31ba7796799F4E3bD46dE': { totalClaim: '375000000000000000000000', claimPercentage: '3' },
+    '0x1791Ef76A0b0451457B244B2D2FE414237992cc6': { totalClaim: '625000000000000000000000', claimPercentage: '5' },
+    '0x4bA5Ca72C0d647eF13c7c6903199BD3dB7Bc6f9f': { totalClaim: '625000000000000000000000', claimPercentage: '5' },
+    '0x0F56258384D9859E7ee2683B3CB22373546385ff': { totalClaim: '312500000000000000000000', claimPercentage: '2' },
+    '0x410a84262804Db5c2EEee59F4aD3b830640C45Bd': { totalClaim: '625000000000000000000000', claimPercentage: '5' },
+    '0x74160902F896E46A490553b394F43c29B1fd9C29': { totalClaim: '312500000000000000000000', claimPercentage: '2' },
+    '0x8f1e96E93fbc3B9369534349FCbf901b98103f77': { totalClaim: '625000000000000000000000', claimPercentage: '5' },
+    '0x872986Fd64FC5a0330e400d56705B80450DB13F5': { totalClaim: '625000000000000000000000', claimPercentage: '5' },
+    '0x26A60648c215e778E28c6862205101F0a90b4678': { totalClaim: '625000000000000000000000', claimPercentage: '5' },
+    '0xD2B9C6db688CB91A22d6f43481984bC6759a8b1c': { totalClaim: '625000000000000000000000', claimPercentage: '5' },
+    '0x08BEF88b6F42D8bA5F71d984e737B16fFe66AE4b': { totalClaim: '312500000000000000000000', claimPercentage: '2' },
+    '0xe9d94f2F06eAeeA611113E87125f8859d1C93713': { totalClaim: '625000000000000000000000', claimPercentage: '5' },
+    '0x53cC4422e3ADf3A75051D4D21069B704c46c91C6': { totalClaim: '312500000000000000000000', claimPercentage: '2' },
+    '0x73A7455d48f8de235eB03CA3C02F8f73A8AC6aCf': { totalClaim: '1250000000000000000000000', claimPercentage: '10' }
+  }
+}
+{
+  name: 'Team',
+  deployedAddress: '0x3e632E8A689407a397f5713c6A581CC56410Ed7E',
+  openClaimAmount: '0',
+  totalClaimAmount: '0',
+  totalAmount: '150000000000000000000000000',
+  cliffTime: '1647018000',
+  claimStats: {}
+}
+{
+  name: 'Trade_Mining',
+  deployedAddress: '0xD7a8B70c101A03b59d160abC18205191c9415070',
+  openClaimAmount: '100000000000000000000000000',
+  totalClaimAmount: '100000000000000000000000000',
+  totalAmount: '100000000000000000000000000',
+  cliffTime: '1634058000',
+  claimStats: {
+    '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '50000000000000000000000000', claimPercentage: '50' },
+    '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '50000000000000000000000000', claimPercentage: '50' }
+  }
+}
+{
+  name: 'Treasury',
+  deployedAddress: '0x69BC0fB381c0E5b030D72b33C3C311BCb6d8ceD5',
+  openClaimAmount: '22500000000000000000000000',
+  totalClaimAmount: '22500000000000000000000000',
+  totalAmount: '22500000000000000000000000',
+  cliffTime: '1634058000',
+  claimStats: {
+    '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '11250000000000000000000000', claimPercentage: '50' },
+    '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '11250000000000000000000000', claimPercentage: '50' }
+  }
+}
+{
+  name: 'Vega_Liquidity',
+  deployedAddress: '0x3A486587c0f5dbf18166FA7e470AfC9c2Ba73555',
+  openClaimAmount: '100000000000000000000000000',
+  totalClaimAmount: '100000000000000000000000000',
+  totalAmount: '100000000000000000000000000',
+  cliffTime: '1634058000',
+  claimStats: {
+    '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '50000000000000000000000000', claimPercentage: '50' },
+    '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '50000000000000000000000000', claimPercentage: '50' }
+  }
+}
+```
