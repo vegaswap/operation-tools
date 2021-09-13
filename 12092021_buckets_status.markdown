@@ -5,7 +5,9 @@
   openClaimAmount: '50000000000000000000000000',
   totalClaimAmount: '50000000000000000000000000',
   totalAmount: '50000000000000000000000000',
-  cliffTime: '1636650000',
+  cliffTime: 2021-11-11T17:00:00.000Z,
+  cliffTimeGMT7: '11/12/2021, 12:00:00 AM',
+  numPeriods: '10',
   claimStats: {
     '0x626Ef3b6a48b550c49869545F52E6c1853d293Bd': { totalClaim: '35000000000000000000000000', claimPercentage: '70' },
     '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '15000000000000000000000000', claimPercentage: '30' }
@@ -17,7 +19,9 @@
   openClaimAmount: '50000000000000000000000000',
   totalClaimAmount: '50000000000000000000000000',
   totalAmount: '50000000000000000000000000',
-  cliffTime: '1641834000',
+  cliffTime: 2022-01-10T17:00:00.000Z,
+  cliffTimeGMT7: '1/11/2022, 12:00:00 AM',
+  numPeriods: '8',
   claimStats: {
     '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '25000000000000000000000000', claimPercentage: '50' },
     '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '25000000000000000000000000', claimPercentage: '50' }
@@ -29,7 +33,9 @@
   openClaimAmount: '100000000000000000000000000',
   totalClaimAmount: '100000000000000000000000000',
   totalAmount: '100000000000000000000000000',
-  cliffTime: '1634058000',
+  cliffTime: 2021-10-12T17:00:00.000Z,
+  cliffTimeGMT7: '10/13/2021, 12:00:00 AM',
+  numPeriods: '6',
   claimStats: {
     '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '50000000000000000000000000', claimPercentage: '50' },
     '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '50000000000000000000000000', claimPercentage: '50' }
@@ -41,7 +47,9 @@
   openClaimAmount: '50000000000000000000000000',
   totalClaimAmount: '50000000000000000000000000',
   totalAmount: '50000000000000000000000000',
-  cliffTime: '1634058000',
+  cliffTime: 2021-10-12T17:00:00.000Z,
+  cliffTimeGMT7: '10/13/2021, 12:00:00 AM',
+  numPeriods: '6',
   claimStats: {
     '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '25000000000000000000000000', claimPercentage: '50' },
     '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '25000000000000000000000000', claimPercentage: '50' }
@@ -53,7 +61,9 @@
   openClaimAmount: '200000000000000000000000000',
   totalClaimAmount: '200000000000000000000000000',
   totalAmount: '200000000000000000000000000',
-  cliffTime: '1634058000',
+  cliffTime: 2021-10-12T17:00:00.000Z,
+  cliffTimeGMT7: '10/13/2021, 12:00:00 AM',
+  numPeriods: '6',
   claimStats: {
     '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': {
       totalClaim: '100000000000000000000000000',
@@ -71,7 +81,9 @@
   openClaimAmount: '50000000000000000000000000',
   totalClaimAmount: '50000000000000000000000000',
   totalAmount: '50000000000000000000000000',
-  cliffTime: '1641834000',
+  cliffTime: 2022-01-10T17:00:00.000Z,
+  cliffTimeGMT7: '1/11/2022, 12:00:00 AM',
+  numPeriods: '8',
   claimStats: {
     '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '25000000000000000000000000', claimPercentage: '50' },
     '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '25000000000000000000000000', claimPercentage: '50' }
@@ -80,10 +92,12 @@
 {
   name: 'Private',
   deployedAddress: '0x4464B3917d9A249ff99D8Aa89E5a35D373Af2305',
-  openClaimAmount: '65000000000000000000000000',
+  openClaimAmount: '64950000000000000000000000',
   totalClaimAmount: '65000000000000000000000000',
   totalAmount: '65000000000000000000000000',
-  cliffTime: '1631466000',
+  cliffTime: 2021-09-12T17:00:00.000Z,
+  cliffTimeGMT7: '9/13/2021, 12:00:00 AM',
+  numPeriods: '6',
   claimStats: {
     '0x2e8A03B4679E721D6C3532d79B74526411d53a90': { totalClaim: '300000000000000000000000', claimPercentage: '0' },
     '0x6A4AC058F7E890AbFeE417749Cfa8EedF63C92DE': { totalClaim: '200000000000000000000000', claimPercentage: '0' },
@@ -136,7 +150,9 @@
   openClaimAmount: '0',
   totalClaimAmount: '0',
   totalAmount: '11111111000000000000000000',
-  cliffTime: '1634058000',
+  cliffTime: 2021-10-12T17:00:00.000Z,
+  cliffTimeGMT7: '10/13/2021, 12:00:00 AM',
+  numPeriods: '2',
   claimStats: {}
 }
 {
@@ -145,7 +161,9 @@
   openClaimAmount: '12500000000000000000000000',
   totalClaimAmount: '12500000000000000000000000',
   totalAmount: '12500000000000000000000000',
-  cliffTime: '1634058000',
+  cliffTime: 2021-10-12T17:00:00.000Z,
+  cliffTimeGMT7: '10/13/2021, 12:00:00 AM',
+  numPeriods: '10',
   claimStats: {
     '0xCf304823D4d0d8822648A66aDbF67BC57F6dD350': { totalClaim: '1250000000000000000000000', claimPercentage: '10' },
     '0xDd071d33bfCf21286ac874C9617A9b350B3072c1': { totalClaim: '312500000000000000000000', claimPercentage: '2' },
@@ -174,7 +192,9 @@
   openClaimAmount: '0',
   totalClaimAmount: '0',
   totalAmount: '150000000000000000000000000',
-  cliffTime: '1647018000',
+  cliffTime: 2022-03-11T17:00:00.000Z,
+  cliffTimeGMT7: '3/12/2022, 12:00:00 AM',
+  numPeriods: '6',
   claimStats: {}
 }
 {
@@ -183,7 +203,9 @@
   openClaimAmount: '100000000000000000000000000',
   totalClaimAmount: '100000000000000000000000000',
   totalAmount: '100000000000000000000000000',
-  cliffTime: '1634058000',
+  cliffTime: 2021-10-12T17:00:00.000Z,
+  cliffTimeGMT7: '10/13/2021, 12:00:00 AM',
+  numPeriods: '6',
   claimStats: {
     '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '50000000000000000000000000', claimPercentage: '50' },
     '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '50000000000000000000000000', claimPercentage: '50' }
@@ -195,7 +217,9 @@
   openClaimAmount: '22500000000000000000000000',
   totalClaimAmount: '22500000000000000000000000',
   totalAmount: '22500000000000000000000000',
-  cliffTime: '1634058000',
+  cliffTime: 2021-10-12T17:00:00.000Z,
+  cliffTimeGMT7: '10/13/2021, 12:00:00 AM',
+  numPeriods: '1',
   claimStats: {
     '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '11250000000000000000000000', claimPercentage: '50' },
     '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '11250000000000000000000000', claimPercentage: '50' }
@@ -207,7 +231,9 @@
   openClaimAmount: '100000000000000000000000000',
   totalClaimAmount: '100000000000000000000000000',
   totalAmount: '100000000000000000000000000',
-  cliffTime: '1634058000',
+  cliffTime: 2021-10-12T17:00:00.000Z,
+  cliffTimeGMT7: '10/13/2021, 12:00:00 AM',
+  numPeriods: '1',
   claimStats: {
     '0x3dd34225F14423Fd3592c52634c1fC974E04f5C0': { totalClaim: '50000000000000000000000000', claimPercentage: '50' },
     '0xB449D25E9e0C78ac1ef2fD1874022680c39bA08F': { totalClaim: '50000000000000000000000000', claimPercentage: '50' }
