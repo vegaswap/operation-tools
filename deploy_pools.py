@@ -9,15 +9,16 @@ import os
 
 #TODO review: reward steps and stake steps have different length
 
+hour = 60*60
+day = 24 * hour
+f = 10 ** 18
+start7pm = 1636372800
+
 def deploy_usdt(mainaccount):    
     
     _stakeToken = BSC_USDT
     _yieldToken = VGA_CTR
-    hour = 60*60
-    day = 24 * hour    
     _duration = 7 * day
-    f = 10 ** 18
-    #TODO
     _maxYield = 300000 * f
     _maxTotalStake = 25000 * f
     _maxPerStake = 1000 * f
@@ -25,9 +26,7 @@ def deploy_usdt(mainaccount):
     xstep = 5000
     _stakeSteps = [xstep * f, (xstep*2) * f, (xstep*3) * f, (xstep*4) * f]
     rewardQuote = 1
-
-    #7pm
-    _startTime = 1636372800
+    _startTime = start7pm
 
     bpool = BoostPool.deploy(
         _startTime,
@@ -62,34 +61,15 @@ def deploy_vga(mainaccount):
 
     _stakeToken = VGA_CTR
     _yieldToken = VGA_CTR
-    hour = 60*60
-    day = 24 * hour
-    #_duration = hour * 6
     _duration = 7 * day
-    f = 10 ** 18
-    #TODO
     _maxYield = 325000 * f
     _maxTotalStake = 2500000 * f
     _maxPerStake = 5000 * f
-    #_minStake = 10 * f
-    
     _rewardSteps = [20, 15, 12, 8, 5]
     xstep = 500000
     _stakeSteps = [xstep * f, (xstep*2) * f, (xstep*3) * f, (xstep*4) * f]
     rewardQuote = 100
-
-    i = 0
-    totalr = 0
-    for x in _stakeSteps:
-        r = _rewardSteps[i]
-        rw = r * x
-        print(rw)
-        i+=1
-        totalr += rw
-    print("total ", totalr/10**18)
-
-    #7pm
-    _startTime = 1636372800
+    _startTime = start7pm
 
     bpool = BoostPool.deploy(
         _startTime,
@@ -99,7 +79,6 @@ def deploy_vga(mainaccount):
         _maxYield,
         _maxTotalStake,
         _maxPerStake,
-        #$_minStake,
         _rewardSteps,
         _stakeSteps,
         rewardQuote,
