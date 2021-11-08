@@ -95,9 +95,8 @@ def main():
         accounts.add(os.environ["PRIVKEY"])
         mainaccount = accounts[0]
         print(mainaccount)
-
-        # deploy_usdt(mainaccount)
-        # deploy_vga(mainaccount)
+        deploy_usdt(mainaccount)
+        deploy_vga(mainaccount)
 
 
 
