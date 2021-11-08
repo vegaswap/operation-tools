@@ -35,7 +35,7 @@ def deploy():
         bnb = network.web3.eth.get_balance(mainaccount.address)
         print(bnb / 10 ** 18)
 
-        _stakeToken = VGA_CTR
+        _stakeToken = BSC_USDT
         _yieldToken = VGA_CTR
         hour = 60*60
         day = 24 * hour
@@ -43,15 +43,15 @@ def deploy():
         _duration = 7 * day
         f = 10 ** 18
         #TODO
-        _maxYield = 325000 * f
-        _maxTotalStake = 2500000 * f
+        _maxYield = 300000 * f
+        _maxTotalStake = 25000 * f
         # _stakeDecimals = 18
         # _yieldDecimals = 18
         _maxPerStake = 5000 * f
         #_minStake = 10 * f
         #TODO review: reward steps and stake steps have different length
         _rewardSteps = [20, 15, 12, 8, 5]
-        xstep = 500000
+        xstep = 5000
         _stakeSteps = [xstep * f, (xstep*2) * f, (xstep*3) * f, (xstep*4) * f]
         rewardQuote = 1
 
